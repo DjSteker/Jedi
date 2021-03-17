@@ -1,0 +1,57 @@
+Testing Extruder Temperature
+Sat Apr  7 22:26:59 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:26:59 2018Testing Heated Bed Temperature
+Sat Apr  7 22:26:59 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:26:59 2018Testing Extruder Temperature
+Sat Apr  7 22:26:59 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:26:59 2018Testing Heated Bed Temperature
+Sat Apr  7 22:26:59 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:26:59 2018Testing Extruder Temperature
+Sat Apr  7 22:27:07 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:27:07 2018Testing Heated Bed Temperature
+Sat Apr  7 22:27:07 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:27:07 2018Testing Extruder Temperature
+Sat Apr  7 22:28:34 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:28:34 2018Testing Heated Bed Temperature
+Sat Apr  7 22:28:34 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:28:34 2018Testing Extruder Temperature
+Sat Apr  7 22:28:34 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:28:34 2018Testing Heated Bed Temperature
+Sat Apr  7 22:28:34 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:28:34 2018Testing Extruder Temperature
+Sat Apr  7 22:28:42 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:28:42 2018Testing Heated Bed Temperature
+Sat Apr  7 22:28:42 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:28:42 2018Testing Extruder Temperature
+Sat Apr  7 22:29:26 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:29:26 2018Testing Heated Bed Temperature
+Sat Apr  7 22:29:26 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:29:26 2018Testing Extruder Temperature
+Sat Apr  7 22:29:26 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:29:26 2018Testing Heated Bed Temperature
+Sat Apr  7 22:29:26 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:29:26 2018Testing Extruder Temperature
+Sat Apr  7 22:29:34 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:29:34 2018Testing Heated Bed Temperature
+Sat Apr  7 22:29:34 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:29:34 2018Testing Extruder Temperature
+Sat Apr  7 22:48:04 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:48:04 2018Testing Heated Bed Temperature
+Sat Apr  7 22:48:04 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:48:04 2018Testing Extruder Temperature
+Sat Apr  7 22:48:04 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:48:04 2018Testing Heated Bed Temperature
+Sat Apr  7 22:48:04 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:48:04 2018Testing Extruder Temperature
+Sat Apr  7 22:48:12 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:48:12 2018Testing Heated Bed Temperature
+Sat Apr  7 22:48:12 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:48:12 2018Testing Extruder Temperature
+Sat Apr  7 22:53:53 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:53:53 2018Testing Heated Bed Temperature
+Sat Apr  7 22:53:53 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:53:53 2018Testing Extruder Temperature
+Sat Apr  7 22:53:53 2018Extruder Estimated Tempurature 220.092557096
+Sat Apr  7 22:53:53 2018Testing Heated Bed Temperature
+Sat Apr  7 22:53:53 2018Heated Bed Estimated Tempurature 220.092557096
+Sat Apr  7 22:53:53 2018
